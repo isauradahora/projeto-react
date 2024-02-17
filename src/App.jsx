@@ -1,12 +1,12 @@
 
 import { BrowserRouter, Routes, Route } from 'react-router-dom'
 
-import Menu from '../../projeto-react/src/components/Menu'
-import Footer from '../../projeto-react/src/components/Footer/Footer'
-import Sobre from '../../projeto-react/src/pages/Sobre'
-import Comentarios from '../../projeto-react/src/pages/Comentarios'
-import Contato from '../../projeto-react/src/pages/Contato'
-import Home from '../../projeto-react/src/pages/Home/Home'
+import Menu from '..//src/components/Menu'
+import Footer from '../src/components/Footer/Footer'
+import Sobre from '../src/pages/Sobre'
+import Comentarios from '../src/pages/Comentarios'
+import Contato from '../src/pages/Contato'
+import Home from '../src/pages/Home/Home'
 
 
 function App() {
